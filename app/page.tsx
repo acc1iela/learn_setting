@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import './test.pcss'
 
 export default function Home() {
   return (
